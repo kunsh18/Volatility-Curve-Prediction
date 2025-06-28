@@ -21,6 +21,6 @@ Competition Host: NK Security Research
     1. Data sourcing
     2. Data cleaning by handling missing values, feature scaling using the standard scaling technique,  and Dimensionality reduction using Principal Component             Analysis
     3. Model Selection, Training, and Implementation.
-# Evaluation Score
+# Evaluation Score:
     -Public score: 891208.974410783
     -Private score: 964779.228866389
