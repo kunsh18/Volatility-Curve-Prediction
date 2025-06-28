@@ -1,10 +1,10 @@
 # Volatility-Curve-Prediction
 Competition Host: NK Security Research
-#Description:
+# Description:
     Develop a model that predicts implied volatilities for NIFTY50 index options using high-frequency market data.
     Implied volatility is more than just a number — it reflects how the market prices future movement across different strikes and maturities.
 
-#About the Data:
+# About the Data:
     train.parquet
       The training dataset contains all historical market data.
           -timestamp: The timestamp index representing the second associated with each row.
